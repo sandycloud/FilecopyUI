@@ -1,4 +1,9 @@
+Pre-requisites:
+Node 
+npm
+
 Tested with node version 14.19
+
 for node version greater than equal to v18 may need to make changes in package.json for :
 @testing-library/react
 @testing-library/user-event
