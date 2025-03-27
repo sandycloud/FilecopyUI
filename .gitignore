@@ -1,0 +1,10 @@
+node_modules/
+.DS_Store
+.idea/
+*.iml
+
+*.class
+*.log
+*.jar 
+
+package-lock.json
